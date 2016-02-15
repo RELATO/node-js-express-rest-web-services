@@ -7,10 +7,10 @@ Install e run mongodb (default port 27017)
 
 ## Running
 
-git clone https://github.com/RELATO/node-js-express-rest-web-services.git
-cd node-js-express-rest-web-services
-npm install
-gulp
+    git clone https://github.com/RELATO/node-js-express-rest-web-services.git
+    cd node-js-express-rest-web-services
+    npm install
+    gulp
 
 ## Access webapp
 
